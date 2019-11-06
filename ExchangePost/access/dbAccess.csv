@@ -1,0 +1,1 @@
+mysql:host=127.0.0.1;dbname=my_guitar_shop;port=3306,localhost,guitar_shop_app,password,my_guitar_shop,3306
